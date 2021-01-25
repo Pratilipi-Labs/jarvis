@@ -1,0 +1,20 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Jarvis, a custom built CI/CD tool by Pratilipi",
+  "author": "Pratilipi Dev Team <dev-team@pratilipi.com>",
+  "scripts": {
+    "pipelines": "node pipelines-worker.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.0.14",
+    "aws-sdk": "^2.831.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "chokidar": "^3.5.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}
