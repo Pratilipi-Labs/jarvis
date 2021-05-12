@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "chokidar": "^3.5.1",
     "express": "^4.17.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mysql2": "^2.2.5",
     "sequelize": "^6.4.0"
   }
